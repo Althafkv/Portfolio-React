@@ -11,16 +11,7 @@ function Backendskills() {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills-name">React</h3>
-              <span className="skills-level">-------------------</span>
-            </div>
-          </div>
-
-          <div className="skills-data">
-            <i className="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills-name">Angular</h3>
+              <h3 className="skills-name">ReactJs</h3>
               <span className="skills-level">-------------------</span>
             </div>
           </div>
@@ -30,6 +21,15 @@ function Backendskills() {
 
             <div>
               <h3 className="skills-name">NodeJs</h3>
+              <span className="skills-level">-------------------</span>
+            </div>
+          </div>
+
+          <div className="skills-data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills-name">RestAPI</h3>
               <span className="skills-level">-------------------</span>
             </div>
           </div>

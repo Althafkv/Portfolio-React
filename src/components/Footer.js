@@ -62,7 +62,7 @@ function Footer() {
         </div>
 
         <span className="footer-copy">
-          All Rights Reserved &#169; Althaf Kv - 2024
+          All Rights Reserved &#169; Althaf Kv - 2025
         </span>
       </div>
     </footer>

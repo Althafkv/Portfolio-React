@@ -11,12 +11,20 @@ export const projectData = [
     image: ecom,
     title: "E-commerce using Mern",
     category: "projects",
-    demo: "https://bliss-ecom.netlify.app/",
-    github: "https://github.com/Althafkv?tab=repositories",
-    tut: "https://drive.google.com/file/d/1h8Nl_wDSPnQWU7lA1g4ZTkamGnQp9wuN/view?usp=drive_link",
+    demo: "https://ebliss.vercel.app/",
+    github: "https://github.com/Althafkv/E-Bliss.git",
+    tut: "https://drive.google.com/file/d/1YqF_bJFDIW1cZ8_CnqQdJK-mF70IfaCK/view?usp=sharing",
   },
   {
     id: 2,
+    image: sss,
+    title: "Portfolio",
+    category: "projects",
+    demo: "https://althafkv.netlify.app",
+    github: "https://github.com/Althafkv/Portfolio-React",
+  },
+  {
+    id: 3,
     image: sky,
     title: "Sky Real - Mern",
     category: "projects",
@@ -25,7 +33,7 @@ export const projectData = [
     tut: "https://drive.google.com/file/d/1ZNfCWBkthcz4oZ-4jsts_dCoYtW5W9VF/view?usp=drive_link",
   },
   {
-    id: 3,
+    id: 4,
     image: gallery,
     title: "Gallery App",
     category: "projects",
@@ -34,7 +42,7 @@ export const projectData = [
     tut: "https://drive.google.com/file/d/1UKQ3saReacWb-gjM8jQQBDfCbaN7NctS/view?usp=drive_link",
   },
   {
-    id: 4,
+    id: 5,
     image: bmi,
     title: "BMI React",
     category: "projects",
@@ -43,7 +51,7 @@ export const projectData = [
     tut: "https://drive.google.com/file/d/1euxFvEYDIPRjTzNDG_5gZKo5nR1HYvvK/view?usp=drive_link",
   },
   {
-    id: 5,
+    id: 6,
     image: mini,
     title: "Minigame using Js",
     category: "projects",
@@ -51,14 +59,7 @@ export const projectData = [
     github: "https://github.com/Althafkv/MiniGame-Js",
     tut: "https://drive.google.com/file/d/1UQ0iY6bj2umI2s7KtY50ZS8VNx8ckXWH/view?usp=drive_link",
   },
-  {
-    id: 6,
-    image: sss,
-    title: "Portfolio",
-    category: "projects",
-    demo: "/",
-    github: "https://github.com/Althafkv/Portfolio-React",
-  },
+
 ];
 
 export const projectsNav = [

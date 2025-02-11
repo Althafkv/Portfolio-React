@@ -57,7 +57,7 @@ function Qualification() {
                   Calicut University
                 </span>
                 <div className="qualification-calender">
-                  <i className="uil uil-calendar-alt"></i> 2018 - 2021
+                  <i className="uil uil-calendar-alt"></i> 2018 - 2022
                 </div>
               </div>
 

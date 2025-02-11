@@ -55,9 +55,9 @@ function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home-subtitle">Web Developer</h3>
+      <h3 className="home-subtitle">Software Engineer</h3>
       <p className="home-description">
-        Hi there, I'm a Full Stack Web Developer with knowledge in Mern Stack.
+        Hi there, I'm a React Frontend Developer with knowledge in Mern Stack.
       </p>
       <a href="#contact" className="button button--flex">
         Contact

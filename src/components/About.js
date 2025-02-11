@@ -24,7 +24,7 @@ function About() {
           <Aboutinfo />
 
           <p className="about-description">
-            Hi, My name is Althaf Kv and i'm an Full Stack Developer, getting
+            Hi, My name is Althaf Kv and i'm an Mern Stack Developer (Focus on React Frontend Developer), getting
             trained by Luminar Technolab. I love working on new and exciting
             technologies and strong ability to express ideas clearly and
             concisely.
